@@ -1,9 +1,11 @@
 ---
-title: Example Draft
+title: Hier gibt es ein paar neue Bilder von meiner Gallery
 layout: post
 date: 2018-01-19 00:00:00 +0000
 sub_heading: ''
-tags: []
+tags:
+- art
+- " 5minutes"
 related_posts: []
 
 ---
